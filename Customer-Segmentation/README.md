@@ -9,8 +9,5 @@
 
 
 
-### Approach taken to solve the problem
-
- Logistic Regression.
 
 
