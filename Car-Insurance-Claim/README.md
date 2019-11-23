@@ -8,8 +8,5 @@
  Dealing with imbalanced data, dealing with the curse of dimentionality and dealing with some more problems while solving a data science problem.
 
 
-### Approach taken to solve the problem
-
- Logistic Regression.
 
 
